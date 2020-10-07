@@ -58,21 +58,8 @@ class _HomePageState extends State<HomePage> {
           ),
         ),
         backgroundColor: Colors.indigo[400],
-        title: Text('df'),
-        actions: <Widget>[
-          new IconButton(
-              icon: Icon(
-                Icons.call,
-                color: Colors.white,
-                size: 22,
-              ),
-              onPressed: () {
-                // Navigator.push(
-                //   context, //here we are passing the values of  product to proddta
-                //  MaterialPageRoute(builder: (context) => Contacts()),
-                // );
-              }),
-        ],
+        title: Text('Cricket Team'),
+     
       ),
       floatingActionButton: FloatingActionButton(
           onPressed: () {
@@ -125,16 +112,13 @@ class _HomePageState extends State<HomePage> {
           //padding widget
           new Padding(
             padding: const EdgeInsets.all(8.0),
-            child: new Text('Categories'),
+            child: new Text('Team Players'),
           ),
 
           //Horizontal list view begins here
 
           //padding widget
-          new Padding(
-            padding: const EdgeInsets.all(20.0),
-            child: new Text('Recent products'),
-          ),
+       
 
           //grid view
           Flexible(

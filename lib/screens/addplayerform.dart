@@ -91,7 +91,7 @@ class _UpiFormState extends State<UpiForm> {
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
         // the App.build method, and use it to set our appbar title.
-        title: Text('d'),
+        title: Text('Add Player'),
       ),
       body: ModalProgressHUD(
         inAsyncCall: showSpinner,
