@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "466725965875",
+    "firebase_url": "https://aashutoshedu-3545e.firebaseio.com",
+    "project_id": "aashutoshedu-3545e",
+    "storage_bucket": "aashutoshedu-3545e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466725965875:android:e27a0753f0b36bf07d5346",
+        "android_client_info": {
+          "package_name": "com.example.teacher_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466725965875-eubcvibhr6fd8seekg02assta5u590dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADZ1EAeYEKWjUAcCIguAudfXVQ-wnc5XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466725965875-eubcvibhr6fd8seekg02assta5u590dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
