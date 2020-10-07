@@ -1,4 +1,4 @@
-# teacher_panel
+# Cricket Team
 
 A new Flutter project.
 ![Screenshot_20201007-141049](https://user-images.githubusercontent.com/56557794/95308429-83479800-08a7-11eb-9c6c-ccca8bf19ec2.jpg)
