@@ -1,8 +1,9 @@
 # teacher_panel
 
 A new Flutter project.
-![Screenshot_20201007-141053](https://user-images.githubusercontent.com/56557794/95308082-0fa58b00-08a7-11eb-9af6-69539e871b22.jpg)
-![Screenshot_20201007-123515](https://user-images.githubusercontent.com/56557794/95308087-10d6b800-08a7-11eb-9803-31bb9a3fd09b.jpg)
+![Screenshot_20201007-141049](https://user-images.githubusercontent.com/56557794/95308429-83479800-08a7-11eb-9c6c-ccca8bf19ec2.jpg)
+![Screenshot_20201007-141053](https://user-images.githubusercontent.com/56557794/95308434-86428880-08a7-11eb-84b9-a89384ae2736.jpg)
+
 ![Screenshot_20201007-123518](https://user-images.githubusercontent.com/56557794/95306041-76757500-08a4-11eb-9963-ec7b56a77b36.jpg)
 
 
