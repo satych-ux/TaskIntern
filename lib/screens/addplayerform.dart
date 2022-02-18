@@ -87,7 +87,7 @@ class _UpiFormState extends State<UpiForm> {
     TextStyle style = TextStyle(fontFamily: 'Montserrat', fontSize: 20.0);
 
     return Scaffold(
-      resizeToAvoidBottomPadding: false,
+      resizeToAvoidBottomInset: false,
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
         // the App.build method, and use it to set our appbar title.
